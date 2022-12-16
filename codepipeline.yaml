@@ -211,7 +211,7 @@ Resources:
               RunOrder: 2
 
         # Uncomment and modify the following step for running the unit-tests
-         - Name: UnitTest
+        - Name: UnitTest
            Actions:
              - Name: UnitTest
                ActionTypeId:
